@@ -1,0 +1,12 @@
+Package: PracticaAYM
+Type: Package
+Title: Funcion basica sumar dos numeros
+Version: 1.0
+Date: 2015-12-19
+Author: Anabel Yague Martinez 
+Maintainer: Anabel Yague Martinez <ana.yague@live.u-tad.com>
+Description: Este paquete contiene tres funciones. Una de ellas permite sumar dos numeros.
+	Otra devuelve el formato correcto de archivo.ext y la tercera cuenta vocales de una palabra.
+License: .
+NeedsCompilation: no
+Packaged: 2015-12-20 00:02:54 UTC; usuario
